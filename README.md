@@ -1,2 +1,2 @@
 # Three-of-a-kind
-A classic Tic-Tac-Toe game
+A classic Tic-Tac-Toe game made on android studios for andorid.
